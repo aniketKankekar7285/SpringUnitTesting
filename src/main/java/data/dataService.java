@@ -1,4 +1,5 @@
 package data;
 
-public interface dataSource {
+public interface dataService {
+    int[] retriveAllData();
 }
